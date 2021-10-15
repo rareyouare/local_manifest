@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- Device Trees -->
+ <project name="rareyouare/android_device_xiaomi_ulysse" path="device/xiaomi/ulysse" remote="github" revision="eleven" />
+
+<!-- Vendor Trees -->
+ <project name="rareyouare/proprietary_vendor_xiaomi_ulysse" path="vendor/xiaomi/ulysse" remote="github" revision="lineage-18.1" />
+ 
+<!-- Kernels -->
+ <project name="rareyouare/kernel_xiaomi_ulysse" path="kernel/xiaomi/ulysse" remote="github" revision="ten-unified-4.9" />
+
+</manifest>
